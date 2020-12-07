@@ -7,7 +7,7 @@
 2. Use the codeword to join the contest: **ghuniversity2020**
 3. Complete the Flame of Open Source
 4. Finish as many additional challenges as you can before 11:15am PT on December 10
-3. Check the leaderboard throughout the week: **add link**
+3. Check the leaderboard throughout the week: **https://www.twilio.com/quest/events/ghuniversity2020**
 
 ## Prizes
 Winners will be announced on December 10 at 11:15AM PT on [the Univers(ity) stream](https://education.github.com/university) and contacted by email in the next 24 hours to redeem their prize. 
