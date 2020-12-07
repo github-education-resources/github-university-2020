@@ -4,7 +4,7 @@
 
 ## Join the mission
 1. [Download TwilioQuest](https://www.twilio.com/quest)
-2. Use the codeword to join the contest: **add codeword**
+2. Use the codeword to join the contest: **ghuniversity2020**
 3. Complete the Flame of Open Source
 4. Finish as many additional challenges as you can before 11:15am PT on December 10
 3. Check the leaderboard throughout the week: **add link**
