@@ -12,12 +12,12 @@
 ## Prizes
 Winners will be announced on December 10 at 11:15AM PT on [the Univers(ity) stream](https://education.github.com/university) and contacted by email in the next 24 hours to redeem their prize. 
 
-Five winners will be chosen at random in each of the following categories:
+Five winners will be chosen at random for everyone completing each of the following categories:
 
-* Students who successfully discover an easter egg within TwilioQuest
-* Students who retrieve the Flame of Open Source item in the TwilioQuest game
-* Students who send a text message in the TwilioQuest game
-* Students who eclipse 10,000 XP total in TwilioQuest, which must include one or both of the achievements above
+* Successfully discover the easter egg within TwilioQuest (the game will let you know if you've qualified!)
+* Retrieve the Flame of Open Source item in the TwilioQuest game
+* Send a text message in the TwilioQuest game
+* Eclipse 10,000 XP total in TwilioQuest, which must include one or both of the achievements above
 
 Complete each of the categories for more chances to win!
 
