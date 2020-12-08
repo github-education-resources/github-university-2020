@@ -10,7 +10,7 @@
 3. Check [how our team's doing](https://www.twilio.com/quest/events/ghuniversity2020) and the [player leaderboard](https://www.twilio.com/quest/events/ghuniversity2020/players) throughout the week.
 
 ## Prizes
-Winners will be announced on December 10 at 11:15AM PT on [the Univers(ity) stream](https://education.github.com/university) and contacted by email in the next 24 hours to redeem their prize. 
+Winners will be announced on December 10 at 11:50AM PT on [the Univers(ity) stream](https://education.github.com/university) and contacted by email in the next 24 hours to redeem their prize. 
 
 Five winners will be chosen at random for each of the following categories:
 
