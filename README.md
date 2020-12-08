@@ -7,7 +7,8 @@
 2. Join the "Adventure Team" for GitHub Univers(ity) by entering this code in the "Teams" section of the "Settings" UI in TwilioQuest: `ghuniversity2020`
 3. Complete the Flame of Open Source mission!
 4. Finish as many additional missions as you can before 11:15am PT on December 10 to win prizes.
-3. Check [how our team's doing](https://www.twilio.com/quest/events/ghuniversity2020) and the [player leaderboard](https://www.twilio.com/quest/events/ghuniversity2020/players) throughout the week.
+5. Check [how our team's doing](https://www.twilio.com/quest/events/ghuniversity2020) throughout the week.
+6. [Join the TwilioQuest Slack team](https://join.slack.com/t/twilioquest/shared_invite/enQtMzc4NzAxOTE3MTU5LWMyMTk2NWE4YjM5YmJlYThmYjRmMWY2NzQ1YmU0MTBhZTEzMzBlZTI5MjgwZWMxN2E1MWU0OTkwMTVmYzY0MWI) to ask questions and get more help on TwilioQuest!
 
 ## Prizes
 Winners will be announced on December 10 at 11:50AM PT on [the Univers(ity) stream](https://education.github.com/university) and contacted by email in the next 24 hours to redeem their prize. 
