@@ -25,7 +25,7 @@ Complete each of the categories for more chances to win!
 ### What do you win?
 A GitHub Swag pack! Stickers, a Mona plushies, and Mona figurine.
 
-[Contest Terms & Conditions](https://github.com/github/education/files/5589513/GitHub.Education.Operation.Univers.ity.Event.Contest.Official.Rules.docx)
+[Contest Terms & Conditions](https://github.com/education/github-university-2020/files/5666265/GitHub.Education.Operation.Univers.ity.Event.Contest.Official.Rules.docx)
 
 
 
