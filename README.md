@@ -2,6 +2,38 @@
 
 ### Operation Univers(ity) will run from 9:45AM PT on Dec 8 to 11:15AM PT on Dec 10.
 
+## 💫 Congrats to the winners and thanks to everyone for playing! 💫
+### Egg Hunt
+* irobin591 
+* ApolloZhu 
+* Monique Hermann 
+* Linus Brogan
+* Amy Surret
+
+### Flame of OSS Mission
+* Cash12121 
+* HyperDev 
+* LeahK
+* Sia 
+* SiriusA 
+
+### Twilio Mission
+* Kaustubh Singh 
+* Nandini Sharma 
+* Stocc 
+* Vicdoja 
+* korniDE
+
+### 10,000 XP winners
+* Cristian 
+* DanRowe
+* Ritesh 
+* TuringTux 
+* Snickerjp 
+
+
+
+
 ## Join the mission
 1. [Download and install TwilioQuest](https://www.twilio.com/quest/download).
 2. Join the "Adventure Team" for GitHub Univers(ity) by entering this code in the "Teams" section of the "Settings" UI in TwilioQuest: `ghuniversity2020`
